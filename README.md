@@ -1,4 +1,4 @@
 # test-repo
 
-count: 2
+count: 3
 second counter: 1
