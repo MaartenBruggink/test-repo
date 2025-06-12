@@ -1,3 +1,3 @@
 # test-repo
 
-count: 1
+count: 2
